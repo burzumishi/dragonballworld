@@ -1,0 +1,19 @@
+2013-11-27 Antonio Cao <antoniocao000@gmail.com>
+
+* Fixed homepath function in: sys_unix.c
+* Changed zeq2/ZEQ2 strings to dbworld/DBWorld
+* Add ioquake3 bots.
+* Add addbots and removebots to Game, CGame and UI
+* Add more icons to bot interface menu
+* Changed gamename to DBWorld
+* Deleted DistancePointToLine from file: Engine/botlib/be_aas_route.c
+
+	float DistancePointToLine(vec3_t v1, vec3_t v2, vec3_t point)
+	{
+       		 vec3_t vec, p2;
+
+       		 AAS_ProjectPointOntoVector(point, v1, v2, p2);
+       		 VectorSubtract(point, p2, vec);
+       		 return VectorLength(vec);
+	} //end of the function DistancePointToLine
+

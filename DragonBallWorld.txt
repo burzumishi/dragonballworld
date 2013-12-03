@@ -1,0 +1,23 @@
+#########################
+#                       #
+# * Dragon Ball World * #
+#                       #
+#########################
+
+Introduction:
+=============
+
+
+Download:
+=========
+
+
+Install:
+========
+
+
+Credits:
+========
+
+  Antonio Cao: <antoniocao000@gmail.com>
+  Andreas Ruiz: <andreasruiz@gmail.com>
