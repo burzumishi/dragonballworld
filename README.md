@@ -1,4 +1,5 @@
-= Dragon Ball World =
+Dragon Ball World
+=================
 
 *"Dragon Ball World"* is an Online Fight Game.
 
@@ -10,36 +11,36 @@ The goal of this project is to play *Dragon Ball* worlds online:
   * _Dragon Ball Z_
   * _Dragon Ball GT_
 
-== News ==
+News
+----
+Stay up to date reading our <a href="https://code.google.com/p/dragonballworld/wiki/News">News</a> page.
 
-Stay up to date reading our [https://code.google.com/p/dragonballworld/wiki/News News] page.
-
-== Downloads ==
-
-For instructions downloading *Dragon Ball World* read [https://code.google.com/p/dragonballworld/wiki/Downloads Downloads] page.
+Downloads
+---------
+For instructions downloading *"Dragon Ball World"* read <a href="https://code.google.com/p/dragonballworld/wiki/Downloads">Downloads</a> page.
 
   * _NOTE: All OS binary versions and Gamedata are avaliable from Git repository._
 
 
-== Install ==
-
-For instructions installing *Dragon Ball World* read [https://code.google.com/p/dragonballworld/wiki/HowToInstall HowToInstall] page.
-
-
-== Changelog ==
-
-Read [https://code.google.com/p/dragonballworld/wiki/Changelog Changelog] page to review changes performed on latest release.
+Install
+-------
+For instructions installing *Dragon Ball World* read <a href="https://code.google.com/p/dragonballworld/wiki/HowToInstall">HowToInstall</a> page.
 
 
-== Game Play Requirements ==
+Changelog
+---------
+Read <a href="https://code.google.com/p/dragonballworld/wiki/Changelog">Changelog</a> page to review changes performed on latest release.
 
+
+Game Play Requirements
+----------------------
   * _3d Graphic Card_
   * _Optional: Network_
   * _Supported OS: *Linux (x86/x86_64)*, *Windows*, *MacOSX*_
 
 
-== Thanks to ... ==
-
-  * ID Software: http://www.idsoftware.com
-  * ZEQ2-Lite: http://zeq2.com/lite
-  * ioquake3: http://ioquake3.org
+Thanks to ...
+-------------
+  * <a href="http://www.idsoftware.com">ID Software</a>
+  * <a href="http://zeq2.com/lite">ZEQ2-Lite</a> 
+  * <a href="http://ioquake3.org">ioquake3</a>
