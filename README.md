@@ -1,15 +1,15 @@
 Dragon Ball World
 =================
 
-*"Dragon Ball World"* is an Online Fight Game.
+<b>"Dragon Ball World"</b> is an Online Fight Game.
 
-The source code is a fork from *ZEQ2-Lite (rev1536)* with merged *ioq3 (v1.36) bots*.
+The source code is a fork from <b>ZEQ2-Lite (rev1536)</b> with merged <b>ioq3 (v1.36) bot</b>*.
 
-The goal of this project is to play *Dragon Ball* worlds online:
+The goal of this project is to play <b>Dragon Ball</b> worlds online:
 
-  * _Dragon Ball_
-  * _Dragon Ball Z_
-  * _Dragon Ball GT_
+  * <b><i>Dragon Ball</i></b>
+  * <b><i>Dragon Ball Z</i></b>
+  * <b><i>Dragon Ball GT</i></b>
 
 News
 ----
@@ -17,14 +17,14 @@ Stay up to date reading our <a href="https://code.google.com/p/dragonballworld/w
 
 Downloads
 ---------
-For instructions downloading *"Dragon Ball World"* read <a href="https://code.google.com/p/dragonballworld/wiki/Downloads">Downloads</a> page.
+For instructions downloading <b>"Dragon Ball World"</b> read <a href="https://code.google.com/p/dragonballworld/wiki/Downloads">Downloads</a> page.
 
-  * _NOTE: All OS binary versions and Gamedata are avaliable from Git repository._
+  * <i>NOTE: All OS binary versions and Gamedata are avaliable from Git repository.</i>
 
 
 Install
 -------
-For instructions installing *Dragon Ball World* read <a href="https://code.google.com/p/dragonballworld/wiki/HowToInstall">HowToInstall</a> page.
+For instructions installing <b>Dragon Ball World</b> read <a href="https://code.google.com/p/dragonballworld/wiki/HowToInstall">HowToInstall</a> page.
 
 
 Changelog
@@ -36,7 +36,7 @@ Game Play Requirements
 ----------------------
   * _3d Graphic Card_
   * _Optional: Network_
-  * _Supported OS: *Linux (x86/x86_64)*, *Windows*, *MacOSX*_
+  * _Supported OS: <b>Linux (x86/x86_64)</b>, <b>Windows</b>, <b>MacOSX</b>
 
 
 Thanks to ...
